@@ -1,5 +1,5 @@
 ## Summary
-[SmallFish](http://www.smallchess.com) is an iOS mobile chess app. It's possible invoke SmallFish from another chess app for an arbitrary FEN position.
+[SmallFish](http://www.smallchess.com) is an iOS mobile chess app. It's possible to invoke SmallFish from another chess app for an arbitrary FEN position.
 
 This sample project shows how this can be done. It's really simple. Please look at `ExportFENIntoSF/ViewController.m`.
 
